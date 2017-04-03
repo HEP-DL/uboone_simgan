@@ -3,3 +3,8 @@ packer_cache/
 
 # For built boxes
 *.box
+
+
+*~
+
+.ipynb_checkpoints/
